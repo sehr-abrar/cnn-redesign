@@ -1,4 +1,4 @@
-# 📰 CNN Homepage Redesign
+# 📰 CNN Website Redesign
 
 > A modern, accessible redesign of CNN’s homepage focused on inclusive design and usability enhancements.
 
